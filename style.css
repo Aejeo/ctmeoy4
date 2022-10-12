@@ -1,0 +1,11 @@
+.bg{
+    width: 5%;
+    height: 5%;
+}
+
+.menu{
+    list-style: none;
+    display: inline;
+    word-spacing: 1em;
+
+}
